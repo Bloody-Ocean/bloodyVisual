@@ -1,0 +1,9 @@
+name: vu
+displayName: "[orange]Vis[gold]ual [green]Uni[purple]ts"
+description: "Ru: Данная модификация изменяет внешний вид юнитов. Респрайты только Серпуловских юнитов.
+
+Eng: This modification changes the appearance of the units. Resprites of only Serpulo units."
+
+author: Bloody-Ocean (Mesyachnuy/Месячный)
+minGameVersion: 136
+version: 1.0
